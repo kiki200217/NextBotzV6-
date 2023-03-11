@@ -12,12 +12,12 @@ let handler = async (m, { conn, usedPrefix }) => {
   let vn = `./mp3/Play-Date-Melanie-Martinez-Cover-by-#U90a2#U51ef#U60a6XKY.opus`
   conn.sendButton(m.chat, `
 ┏━ꕥ〔 *Donasi • Dana* 〕ꕥ━⬣
-┃✾ Gopay  [082214729677]
+┃✾ Pulsa  [082180232340]
 ┃✾ Dana  [082214729677]
-┃✾ Saweria  [https://saweria.co/PutraModz]
+┃✾ Seabank  [901771955137]
 ┗━━━━ꕥ
 ┏━━ꕥ〔 *NOTE* 〕ꕥ━⬣
-┃ Ingin donasi? Wa.me/6282214729677
+┃ Ingin donasi? Wa.me/6282180232340
 ┃ _Hasil donasi akan digunakan buat sewa_
 ┃ _atau beli *RDP/VPS* agar bot bisa jalan_
 ┃ _24jam tanpa kendala_
