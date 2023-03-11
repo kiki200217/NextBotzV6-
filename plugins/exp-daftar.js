@@ -103,7 +103,7 @@ Jika owner mengetahui Hal di atas, Maka tidak segan²
 Nomor Anda Akan Di Banned/Block!.
 `
   let buttonMessage= {
-'document':{'url':'https://youtu.be/QOm1gEFbMdI'},
+'document':{'url':'https://youtube.com/@kikiganzz20'},
 'mimetype':global.ddocx,
 'fileName':'▢━━━━「 Registration 」━━━━▢',
 'fileLength':fsizedoc,
@@ -112,7 +112,7 @@ Nomor Anda Akan Di Banned/Block!.
 'forwardingScore':555,
 'isForwarded':true,
 'externalAdReply':{
-'mediaUrl':'https://youtu.be/pwLZpdfO8AU',
+'mediaUrl':'https://youtube.com/@kikiganzz20',
 'mediaType':2,
 'previewType':'pdf',
 'title':global.titlebot,
